@@ -76,23 +76,6 @@ Description: LabelUp 8 can adjust the height of the Icon label.
 Name: LabelUp 8
 Author: k0u <kr7577gm@gmail.com>
 
-Package: com.insanj.meter
-Section: Tweaks
-Installed-Size: 804
-Maintainer: Julian Weiss <insanjmail@gmail.com>
-Architecture: iphoneos-arm
-Version: 1.0-1
-Depends: mobilesubstrate, libactivator
-Filename: ./com.insanj.meter_1.0-1_iphoneos-arm.deb
-Size: 89274
-MD5sum: 0f869e761c7e04771ff452947683b767
-SHA1: 159bc40175603f8aa47a1fef10f99359c33bc51b
-SHA256: 0185d38b2156683111edf0c9efa351382b164ab3d89db10199b736a71bfde5a4
-Description: An advanced, themable signal meter
-Name: Meter
-Author: Julian (insanj) Weiss
-Icon: file:///Library/PreferenceBundles/MeterPreferences.bundle/icon@2x.png
-
 Package: com.k0un1x.SSazae.iWidget
 Section: Widgets
 Maintainer: k0un1x <kr7577gm@gmail.com>
@@ -108,6 +91,22 @@ Description: Splatoon_スーパーサザエ_iWidget (Addon iWidgets).スーパ�
 Name: Splatoon_スーパーサザエ_iWidget
 Author: k0un1x <kr7577gm@gmail.com>
 Homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.dockAdjust9
+Section: Tweaks
+Installed-Size: 224
+Maintainer: k0un1x
+Architecture: iphoneos-arm
+Version: 1.0.1-1
+Depends: mobilesubstrate, firmware (>=9.0)
+Filename: ./com.k0un1x.dockAdjust9_1.0.1-1_iphoneos-arm.deb
+Size: 26564
+MD5sum: 992bba131b66fb125f291c4c1ad5cdb8
+SHA1: a39c21bafdfd9ef0e7bdefc0710a9b6da6b8690e
+SHA256: 5541697c392476ed6a754fb037eb446b80753bf443680f6d8aaf39fb80e5f070
+Description: This Tweak allows you to adjust the position or the like of height and icon of Dock. Works on iOS9
+Name: DockAdjust 9
+Author: k0un1x
 
 Package: com.k0u.katudougenkai
 Section: Widgets
