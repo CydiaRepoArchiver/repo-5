@@ -46,20 +46,6 @@ Description: Allows you to adjust dock height simply! Works on iOS8
 Name: DockAdjust 8
 Author: k0unix
 
-Package: com.k0u.favrepo
-Priority: optional
-Section: Repositories
-Maintainer: k0u <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1.7
-Filename: ./com.k0u.favrepo_0.1.7_iphoneos-arm.deb
-Size: 936
-MD5sum: 3c0b960f4cb282f3921c484e333bee11
-SHA1: d964c5c8f9e0dc2c0f2e6bb296ae966e1cc5bb11
-SHA256: c8d2b8eb712a46d46eee315f8e9e71800d6d4b12edb5965a0094ccf0d79d781f
-Description: k0u's Favorite Repository
-Name: com.k0u.favrepo
-
 Package: com.k0un1x.dawny2.iWidget
 Section: Widgets
 Maintainer: k0un1x <kr7577gm@gmail.com>
@@ -240,6 +226,20 @@ Description: Splatoon_Wiiu-logo-_iWidget (Addon iWidgets)
 Name: Splatoon_Wiiu-logo-_iWidget
 Author: k0un1x <kr7577gm@gmail.com>
 Homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0u.favrepo
+Priority: optional
+Section: Repositories
+Maintainer: k0u <kr7577gm@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1.8
+Filename: ./com.k0u.favrepo_0.1.8_iphoneos-arm.deb.deb
+Size: 978
+MD5sum: 6b161179e82280c781a0a430a68f504b
+SHA1: c71197d4b79d40bd05868b57cda2943e1f7945a9
+SHA256: 3a15735c42c8403cb04308488cd2b478a4baa67c59776827099896f1556eefa7
+Description: k0u's Favorite Repository
+Name: com.k0u.favrepo
 
 Package: com.k0un1x.Atarime.iWidget
 Section: Widgets
