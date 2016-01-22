@@ -321,3 +321,17 @@ Name: Splatoon_ブランド_iWidget
 Author: k0un1x <kr7577gm@gmail.com>
 Homepage: http://k0usblog.blogspot.jp/
 
+Package: com.k0u.favrepo
+Priority: optional
+Section: Repositories
+Maintainer: k0u <kr7577gm@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1.9
+Filename: ./com.k0u.favrepo_0.1.9_iphoneos-arm.deb
+Size: 960
+MD5sum: e75d63b24605c45deef694320b2c3321
+SHA1: 308805320312ba0481534982f7e5ef65d74e70b1
+SHA256: b859b4735b67a7881274f7031bc151ae1890100bb20a5ba8f4bc097d61eb5f29
+Description: k0u's Favorite Repository
+Name: com.k0u.favrepo
+
