@@ -198,6 +198,22 @@ Author: k0un1x
 Package: com.k0u.dockAdjust8
 Section: Tweaks
 Installed-Size: 192
+Maintainer: k0un1x
+Architecture: iphoneos-arm
+Version: 1.0.0-49
+Depends: mobilesubstrate, firmware (>=8.0)
+Filename: ./com.k0u.dockAdjust8_1.0.0-49_iphoneos-arm.deb
+Size: 19394
+MD5sum: dae73928e6516440c370b2916340a3fb
+SHA1: 864091b8bd1c2224c19c97cd5319d8c301db3200
+SHA256: 10188e7d5095bbcaefcdf2fa927fa7374ea18d16d4210fd29ae61d6423616155
+Description: This Tweak allows you to adjust the position or the like of height and icon of Dock. Works on iOS8 
+Name: DockAdjust 8
+Author: k0un1x
+
+Package: com.k0u.dockAdjust8
+Section: Tweaks
+Installed-Size: 192
 Maintainer: k0unix
 Architecture: iphoneos-arm
 Version: 1.0.0-45
