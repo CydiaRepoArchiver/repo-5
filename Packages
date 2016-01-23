@@ -46,6 +46,22 @@ Description: Allows you to adjust dock height simply! Works on iOS8
 Name: DockAdjust 8
 Author: k0unix
 
+Package: com.k0un1x.Spacial.Gauge.iwidget
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: com.eldwin.iwidgets
+Filename: ./com.k0un1x.Spacial.Gauge.iwidget.deb
+Size: 2559148
+MD5sum: aee65d94e73b7b2aaabb84d7f7b2ab9b
+SHA1: 992481313fc817a543800ca868e63947251044b6
+SHA256: c70080ddd171f115c38557069c83ba5aaf1054ed1113d58af6b72a266bf7dfe7
+Description: Splatoon_スペシャルゲージ_iWidget (Addon iWidgets).
+Name: Splatoon_スペシャルゲージ_iWidget
+Author: k0un1x <kr7577gm@gmail.com>
+Homepage: http://k0usblog.blogspot.jp/
+
 Package: com.k0un1x.dockAdjust9
 Section: Tweaks
 Installed-Size: 224
@@ -61,6 +77,22 @@ SHA256: 9ad8ad208fd328ddcaa51b16c0e8f09980061ff45e126a2a74ff67ccde8d98cb
 Description: This Tweak allows you to adjust the position or the like of height and icon of Dock. Works on iOS9
 Name: DockAdjust 9
 Author: k0un1x
+
+Package: com.k0un1x.ikaclock.mini
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1
+Depends: com.eldwin.iwidgets
+Filename: ./com.k0un1x.ikaclock.mini.deb
+Size: 80396
+MD5sum: 22fa81aacfd424f1e6cab1488c589e81
+SHA1: 555e2cf0b74ced81cd791e7ca54827e729bcac3e
+SHA256: c01a38b5e7192419ef8fdcf7b24a50ab58af4e8f948712ca5f9c80c5d4d1cdf6
+Description: Spaltoon_イカClockミニ_iWidget (Addon iWidgets).
+Name: Splatoon_イカClock_mini_iwidget
+Author: k0un1x <kr7577gm@gmail.com>
+Homepage: http://k0usblog.blogspot.jp/
 
 Package: com.k0un1x.dawny2.iWidget
 Section: Widgets
@@ -109,6 +141,20 @@ Description: Splatoon_ダウニー_iWidget (Addon iWidgets).
 Name: Splatoon_ダウニー_iWidget
 Author: k0un1x <kr7577gm@gmail.com>
 Homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0u.favrepo
+Priority: optional
+Section: Repositories
+Maintainer: k0u <kr7577gm@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1.8
+Filename: ./com.k0u.favrepo_0.1.8_iphoneos-arm.deb
+Size: 978
+MD5sum: 6b161179e82280c781a0a430a68f504b
+SHA1: c71197d4b79d40bd05868b57cda2943e1f7945a9
+SHA256: 3a15735c42c8403cb04308488cd2b478a4baa67c59776827099896f1556eefa7
+Description: k0u's Favorite Repository
+Name: com.k0u.favrepo
 
 Package: com.k0un1x.SSazae.iWidget
 Section: Widgets
@@ -259,19 +305,21 @@ Name: Splatoon_Wiiu-logo-_iWidget
 Author: k0un1x <kr7577gm@gmail.com>
 Homepage: http://k0usblog.blogspot.jp/
 
-Package: com.k0u.favrepo
-Priority: optional
-Section: Repositories
-Maintainer: k0u <kr7577gm@gmail.com>
+Package: com.k0un1x.dawny3.iWidget
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
 Architecture: iphoneos-arm
-Version: 0.1.8
-Filename: ./com.k0u.favrepo_0.1.8_iphoneos-arm.deb.deb
-Size: 978
-MD5sum: 6b161179e82280c781a0a430a68f504b
-SHA1: c71197d4b79d40bd05868b57cda2943e1f7945a9
-SHA256: 3a15735c42c8403cb04308488cd2b478a4baa67c59776827099896f1556eefa7
-Description: k0u's Favorite Repository
-Name: com.k0u.favrepo
+Version: 0.1
+Depends: com.eldwin.iwidgets
+Filename: ./com.k0un1x.dawny3.iWidget.deb
+Size: 460288
+MD5sum: 3b6763835ac8d1753e8447c3a7b2c566
+SHA1: e5b748b9084fab03be0e4d50043896069d1c8ae2
+SHA256: 0a285d3d0f4b84c4973712e63eff416e7f0b45230c3ff21a662958f1828d6e03
+Description: Splatoon_ダウニー3_iWidget (Addon iWidgets)
+Name: Splatoon_ダウニー3_iWidget
+Author: k0un1x <kr7577gm@gmail.com>
+Homepage: http://k0usblog.blogspot.jp/
 
 Package: com.k0un1x.Atarime.iWidget
 Section: Widgets
