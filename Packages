@@ -373,13 +373,13 @@ Package: com.k0un1x.kingpulsar.iwidget
 Section: Widgets
 Maintainer: k0un1x <kr7577gm@gmail.com>
 Architecture: iphoneos-arm
-Version: 0.1
+Version: 0.2
 Depends: com.eldwin.iwidgets
 Filename: ./com.k0un1x.kingpulsar.iwidget.deb
-Size: 233236
-MD5sum: 4632ac88747e36491e50199c14b3fe6c
-SHA1: b67e8c678628f05ee4b41258e9f794f14d5d542a
-SHA256: c2b6b1551d7cc5c282694dfdfaa8ccd4f97216383e1fb2fe0b830c58b4f4763d
+Size: 232974
+MD5sum: 12f4add58061d108c1cc8a9c4b4d34b0
+SHA1: 5efdbf1ea210a09374bcca5b3ee15c1a5d38ad68
+SHA256: fd72fb0a2d1be94373ed1463db9dc9333aa6f854e6a0e066ccef143a2f122c5c
 Description:KingPulsar_iWidget (Addon iWidgets).
 Name: KingPulsar_iwidget
 Author: k0un1x <kr7577gm@gmail.com>
