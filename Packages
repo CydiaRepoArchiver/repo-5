@@ -1,401 +1,241 @@
-Package: com.k0un1x.dawny.iWidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1.3
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.dawny_iWidget.deb.deb
-Size: 969078
-MD5sum: f4292e7c662e2035ccfc9d1c4b87a33e
-SHA1: 9cec715ef3d11a2b30173fe9837149c717f353ab
-SHA256: 33374a656cac0fc4ddc24f95264d7b83ab5c047923d0a68f692bff5388ea2c84
-Description: Splatoon_ダウニー_iWidget (Addon iWidgets).
-Name: Splatoon_ダウニー_iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
 Package: com.k0u.dockAdjust8
-Section: Tweaks
-Installed-Size: 184
-Maintainer: k0unix
-Architecture: iphoneos-arm
-Version: 1.0.0-2
-Depends: mobilesubstrate, firmware (>=8.0)
-Filename: ./com.k0u.dockAdjust8_1.0.0-2_iphoneos-arm.deb
-Size: 18428
-MD5sum: 1175571c710a8a2c2acb07907f4b0e33
-SHA1: 0c8c8101dc71a7f7d108b223080fe171b614d9f1
-SHA256: 7e1abbf13e532dfd8e39982986fc508c68ae8dde36fb6fef1c0818b1b48084ba
-Description: Allows you to adjust dock height simply! Works on iOS8 
-Name: DockAdjust 8
-Author: k0unix
-
-Package: com.k0u.dockAdjust8
-Section: Tweaks
-Installed-Size: 188
-Maintainer: k0unix
-Architecture: iphoneos-arm
-Version: 1.0.0-39
-Depends: mobilesubstrate, firmware (>=8.0)
-Filename: ./com.k0u.dockAdjust8_1.0.0-39_iphoneos-arm.deb
-Size: 19366
-MD5sum: 3752ea4a86050e9dcf6d6d3a2740683b
-SHA1: ae016b4ac13729d15e34053e01356fc8423a00e8
-SHA256: d6bee478f07f0ba1f8825fa628528059a038726f0f06b04291e35b11ac1de5b1
-Description: Allows you to adjust dock height simply! Works on iOS8 
-Name: DockAdjust 8
-Author: k0unix
-
-Package: com.k0un1x.Spacial.Gauge.iwidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.Spacial.Gauge.iwidget.deb
-Size: 2559148
-MD5sum: aee65d94e73b7b2aaabb84d7f7b2ab9b
-SHA1: 992481313fc817a543800ca868e63947251044b6
-SHA256: c70080ddd171f115c38557069c83ba5aaf1054ed1113d58af6b72a266bf7dfe7
-Description: Splatoon_スペシャルゲージ_iWidget (Addon iWidgets).
-Name: Splatoon_スペシャルゲージ_iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0un1x.dockAdjust9
-Section: Tweaks
-Installed-Size: 224
-Maintainer: k0un1x
-Architecture: iphoneos-arm
-Version: 1.0.1-3
-Depends: mobilesubstrate, firmware (>=9.0)
-Filename: ./com.k0un1x.dockAdjust9_1.0.1-3_iphoneos-arm.deb
-Size: 26572
-MD5sum: d8987fee1379935eedb3f0003213d5c1
-SHA1: 75062a3123854f1af94ee1235a7be6e7e46b3677
-SHA256: 9ad8ad208fd328ddcaa51b16c0e8f09980061ff45e126a2a74ff67ccde8d98cb
-Description: This Tweak allows you to adjust the position or the like of height and icon of Dock. Works on iOS9
-Name: DockAdjust 9
-Author: k0un1x
-
-Package: com.k0un1x.ikaclock.mini
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.ikaclock.mini.deb
-Size: 80396
-MD5sum: 22fa81aacfd424f1e6cab1488c589e81
-SHA1: 555e2cf0b74ced81cd791e7ca54827e729bcac3e
-SHA256: c01a38b5e7192419ef8fdcf7b24a50ab58af4e8f948712ca5f9c80c5d4d1cdf6
-Description: Spaltoon_イカClockミニ_iWidget (Addon iWidgets).
-Name: Splatoon_イカClock_mini_iwidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0un1x.dawny2.iWidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.dawny2_iWidget.deb
-Size: 867612
-MD5sum: 42db7dc457519cd7fa6784c59ffea0d7
-SHA1: 7f5cc4283b58334d96118314dbac836374be2ce3
-SHA256: 1efed40e492ef737acf2ecf74c16c6609542da16e711014c9bd051f6ba12aa2e
-Description: Splatoon_ダウニー2_iWidget (Addon iWidgets)
-Name: Splatoon_ダウニー2_iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0u.labelup8
-Section: Tweaks
-Installed-Size: 204
-Maintainer: k0u <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.0.1-1
-Depends: mobilesubstrate,firmware(>=8.0)
-Filename: ./com.k0u.labelup8_0.0.1-1_iphoneos-arm.deb
-Size: 40822
-MD5sum: 3d362090711b9a7925c9f90a6fc0284e
-SHA1: fb0522be81b4e9f6560fec94e5ea5eea975ee914
-SHA256: f1bbd18d17075f5b3381e151bb28398b23e89cfefb671cf6f190272a2038497c
-Description: LabelUp 8 can adjust the height of the Icon label.
-Name: LabelUp 8
-Author: k0u <kr7577gm@gmail.com>
-
-Package: com.k0un1x.dawny.iWidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1.3
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.dawny_iWidget.deb
-Size: 969078
-MD5sum: f4292e7c662e2035ccfc9d1c4b87a33e
-SHA1: 9cec715ef3d11a2b30173fe9837149c717f353ab
-SHA256: 33374a656cac0fc4ddc24f95264d7b83ab5c047923d0a68f692bff5388ea2c84
-Description: Splatoon_ダウニー_iWidget (Addon iWidgets).
-Name: Splatoon_ダウニー_iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0u.favrepo
-Priority: optional
-Section: Repositories
-Maintainer: k0u <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1.8
-Filename: ./com.k0u.favrepo_0.1.8_iphoneos-arm.deb
-Size: 978
-MD5sum: 6b161179e82280c781a0a430a68f504b
-SHA1: c71197d4b79d40bd05868b57cda2943e1f7945a9
-SHA256: 3a15735c42c8403cb04308488cd2b478a4baa67c59776827099896f1556eefa7
-Description: k0u's Favorite Repository
-Name: com.k0u.favrepo
-
-Package: com.k0un1x.SSazae.iWidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.2
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.SSazae_iWidget.deb.deb
-Size: 809180
-MD5sum: f82410a172883ad2706914e3c5008f0e
-SHA1: 55827633e9dd2dea3c6f218a1423184c29d330fc
-SHA256: 1cf4b07572f7af3f81f13c37541dd71e1eabfac512520be237b27ad3685aac2f
-Description: Splatoon_スーパーサザエ_iWidget (Addon iWidgets).スーパーサザエ1号と2号を追加。微妙に動きの違う1号と2号をかわいがってあげてね！
-Name: Splatoon_スーパーサザエ_iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0un1x.dockAdjust9
-Section: Tweaks
-Installed-Size: 224
-Maintainer: k0un1x
-Architecture: iphoneos-arm
-Version: 1.0.1-1
-Depends: mobilesubstrate, firmware (>=9.0)
-Filename: ./com.k0un1x.dockAdjust9_1.0.1-1_iphoneos-arm.deb
-Size: 26564
-MD5sum: 992bba131b66fb125f291c4c1ad5cdb8
-SHA1: a39c21bafdfd9ef0e7bdefc0710a9b6da6b8690e
-SHA256: 5541697c392476ed6a754fb037eb446b80753bf443680f6d8aaf39fb80e5f070
-Description: This Tweak allows you to adjust the position or the like of height and icon of Dock. Works on iOS9
-Name: DockAdjust 9
-Author: k0un1x
-
-Package: com.k0u.katudougenkai
-Section: Widgets
-Maintainer: k0unix <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1.7
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0u.katudougenkai.deb
-Size: 317838
-MD5sum: 46827eb4a6b88ebb8097d4f10ed3413b
-SHA1: a1b8c2abbaa5558d6af852b6c7ee70bbe34fa878
-SHA256: f17c1df5b88c85f935a9f27073ea5f59d153da43f6b7695aa381f8add6968839
-Description: 活動限界時計 iWidget (Addon iWidgets).
-Name: 活動限界時計 iWidget
-Author: k0unix <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.kindadev.ccnowplaying
-Section: Tweaks
-Installed-Size: 396
-Maintainer: thebigboss.org <http://thebigboss.org>
-Architecture: iphoneos-arm
-Version: 0.8.3-6
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./com.kindadev.ccnowplaying_0.8.3-6_iphoneos-arm.deb
-Size: 86376
-MD5sum: ee589dde101bcef6c7de73a9507b6a4a
-SHA1: 4005d42318a0f0c3dbc885dab5f11f47f5888c51
-SHA256: 924532b1ded463a5941316432bcae41af730d346e7a2119f7b104b48a7b32e37
-Description: Post #NowPlaying from Control Center
-Name: CCNowPlaying
-Author: kinda <kinda.dev@gmail.com>
-Tag: purpose::extension
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccnowplayingDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccnowplayingDp
-dev: kindadev
-Icon: file:///Library/PreferenceBundles/CCNowPlayingSettings.bundle/CCNowPlaying@2x.png
-
-Package: com.k0u.dockAdjust8
-Section: Tweaks
-Installed-Size: 192
-Maintainer: k0un1x
-Architecture: iphoneos-arm
-Version: 1.0.0-46
-Depends: mobilesubstrate, firmware (>=8.0)
-Filename: ./com.k0u.dockAdjust8_1.0.0-46_iphoneos-arm.deb
-Size: 19362
-MD5sum: 6dbe502c67899064e69e956513e6c787
-SHA1: 50bbff3f1c5ab47c657a144cd0670a90772925dc
-SHA256: 0c4f5174e6258a4f59ff6a147848fe04a4a91109f8dcae65e7ecff468d13cf5d
-Description: This Tweak allows you to adjust the position or the like of height and icon of Dock. Works on iOS8 
-Name: DockAdjust 8
-Author: k0un1x
-
-Package: com.k0u.dockAdjust8
-Section: Tweaks
-Installed-Size: 192
-Maintainer: k0un1x
-Architecture: iphoneos-arm
 Version: 1.0.0-49
+Section: Tweaks
+Maintainer: k0un1x
 Depends: mobilesubstrate, firmware (>=8.0)
-Filename: ./com.k0u.dockAdjust8_1.0.0-49_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Filename: .///com.k0u.dockAdjust8_1.0.0-49_iphoneos-arm.deb
 Size: 19394
-MD5sum: dae73928e6516440c370b2916340a3fb
-SHA1: 864091b8bd1c2224c19c97cd5319d8c301db3200
-SHA256: 10188e7d5095bbcaefcdf2fa927fa7374ea18d16d4210fd29ae61d6423616155
-Description: This Tweak allows you to adjust the position or the like of height and icon of Dock. Works on iOS8 
-Name: DockAdjust 8
-Author: k0un1x
-
-Package: com.k0u.dockAdjust8
-Section: Tweaks
 Installed-Size: 192
-Maintainer: k0unix
-Architecture: iphoneos-arm
-Version: 1.0.0-45
-Depends: mobilesubstrate, firmware (>=8.0)
-Filename: ./com.k0u.dockAdjust8_1.0.0-45_iphoneos-arm.deb
-Size: 19318
-MD5sum: e126a50fcf915bcba7acc658ae94b2bd
-SHA1: d3a63bd9835b6dabac5710011716f3845e559382
-SHA256: bf00e2632138ed6e5987da4beed75d90604c68eb3c7d6f7e583ce79c999a86b6
-Description: Allows you to adjust dock height simply! Works on iOS8 
-Name: DockAdjust 8
-Author: k0unix
-
-Package: com.k0u.dockAdjust8
-Section: Tweaks
-Installed-Size: 188
-Maintainer: k0unix
-Architecture: iphoneos-arm
-Version: 1.0.0-41
-Depends: mobilesubstrate, firmware (>=8.0)
-Filename: ./com.k0u.dockAdjust8_1.0.0-41_iphoneos-arm.deb
-Size: 19372
-MD5sum: 79b369409459dd839a8d4f023f9cf5d8
-SHA1: 6375cbf51207641d09adc1a9ad792caa4e9a1070
-SHA256: 598f8f3a58af4fc7dbf240477047512695fbc9ad2e63fa51e15bff398384b80b
-Description: Allows you to adjust dock height simply! Works on iOS8 
-Name: DockAdjust 8
-Author: k0unix
-
-Package: com.k0un1x.Wiiu-logo.iWidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.Wiiu-logo_iWidget.deb
-Size: 15510
-MD5sum: 5ee894bb3ae8a8c6bba4fafab8a98812
-SHA1: bf395e6a9cdb82d4c9d7841f4be88c08be07123a
-SHA256: f0a3b0ee6861a67a808924612b5a1377767c6fd23e4c894883e7b7b05d223c2c
-Description: Splatoon_Wiiu-logo-_iWidget (Addon iWidgets)
-Name: Splatoon_Wiiu-logo-_iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0un1x.dawny3.iWidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.dawny3.iWidget.deb
-Size: 460288
-MD5sum: 3b6763835ac8d1753e8447c3a7b2c566
-SHA1: e5b748b9084fab03be0e4d50043896069d1c8ae2
-SHA256: 0a285d3d0f4b84c4973712e63eff416e7f0b45230c3ff21a662958f1828d6e03
-Description: Splatoon_ダウニー3_iWidget (Addon iWidgets)
-Name: Splatoon_ダウニー3_iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0un1x.Atarime.iWidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.Atarime_iWidget.deb
-Size: 867634
-MD5sum: 794b35b0f9afd367ca1c02f9c9ed699e
-SHA1: 4223fd7aa2c3410dec7168a0f14b6774fb1c47b3
-SHA256: 189d84d1b4e9fc0a76d4017ef64f46e3b88fdc2aae311b4bd7035d281a6a8527
-Description: Splatoon_アタリメ司令_iWidget (Addon iWidgets)
-Name: Splatoon_アタリメ司令_iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0u.ikaclock
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1.3
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0u.ika_clock_iphoneos-arm.deb
-Size: 80370
-MD5sum: 56c1e1a0e87d6ddca5186980fa739a93
-SHA1: 42f6a6a407f8911fe75ad2b7d0d46fdc099be050
-SHA256: d1127222bd92ff631cc2b140c04197c045d4e64c5710aa1c6d20996f1d07b62b
-Description: ika clock iWidget (Addon iWidgets).
-Name: ika clock iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0un1x.brand.iWidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.1
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.brand_iWidget.deb
-Size: 471932
-MD5sum: c88ef348766ab2af920f037f2eb04703
-SHA1: 5036578adb0e861eddfa2e8dbb9e9fee7a94cddc
-SHA256: c74c49785f22c529c17dcd86db493b00e9aa06fd20dc6a20179e977536fc06e8
-Description: Splatoon_ブランド_iWidget (Addon iWidgets)
-Name: Splatoon_ブランド_iWidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
-
-Package: com.k0un1x.kingpulsar.iwidget
-Section: Widgets
-Maintainer: k0un1x <kr7577gm@gmail.com>
-Architecture: iphoneos-arm
-Version: 0.2
-Depends: com.eldwin.iwidgets
-Filename: ./com.k0un1x.kingpulsar.iwidget.deb
-Size: 232974
-MD5sum: 12f4add58061d108c1cc8a9c4b4d34b0
-SHA1: 5efdbf1ea210a09374bcca5b3ee15c1a5d38ad68
-SHA256: fd72fb0a2d1be94373ed1463db9dc9333aa6f854e6a0e066ccef143a2f122c5c
-Description:KingPulsar_iWidget (Addon iWidgets).
-Name: KingPulsar_iwidget
-Author: k0un1x <kr7577gm@gmail.com>
-Homepage: http://k0usblog.blogspot.jp/
+MD5sum: dae73928e6516440c370b2916340a3fb
+Description: This Tweak allows you to adjust the position or the like of height and icon of Dock. Works on iOS8
+name: DockAdjust 8
+author: k0un1x
 
 Package: com.k0u.favrepo
+Version: 0.1.9
 Priority: optional
 Section: Repositories
 Maintainer: k0u <kr7577gm@gmail.com>
 Architecture: iphoneos-arm
-Version: 0.1.9
-Filename: ./com.k0u.favrepo_0.1.9_iphoneos-arm.deb
+Filename: .///com.k0u.favrepo_0.1.9_iphoneos-arm.deb
 Size: 960
 MD5sum: e75d63b24605c45deef694320b2c3321
-SHA1: 308805320312ba0481534982f7e5ef65d74e70b1
-SHA256: b859b4735b67a7881274f7031bc151ae1890100bb20a5ba8f4bc097d61eb5f29
 Description: k0u's Favorite Repository
-Name: com.k0u.favrepo
+name: com.k0u.favrepo
+
+Package: com.k0u.ikaclock
+Version: 0.1.3
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0u.ika_clock_iphoneos-arm.deb
+Size: 80370
+MD5sum: 56c1e1a0e87d6ddca5186980fa739a93
+Description: ika clock iWidget (Addon iWidgets).
+name: ika clock iWidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0u.katudougenkai
+Version: 0.1.7
+Section: Widgets
+Maintainer: k0unix <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0u.katudougenkai.deb
+Size: 317838
+MD5sum: 46827eb4a6b88ebb8097d4f10ed3413b
+Description: 活動限界時計 iWidget (Addon iWidgets).
+name: 活動限界時計 iWidget
+author: k0unix <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0u.labelup8
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: k0u <kr7577gm@gmail.com>
+Depends: mobilesubstrate,firmware(>=8.0)
+Architecture: iphoneos-arm
+Filename: .///com.k0u.labelup8_0.0.1-1_iphoneos-arm.deb
+Size: 40822
+Installed-Size: 204
+MD5sum: 3d362090711b9a7925c9f90a6fc0284e
+Description: LabelUp 8 can adjust the height of the Icon label.
+name: LabelUp 8
+author: k0u <kr7577gm@gmail.com>
+
+Package: com.k0un1x.Atarime.iWidget
+Version: 0.1
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.Atarime_iWidget.deb
+Size: 867634
+MD5sum: 794b35b0f9afd367ca1c02f9c9ed699e
+Description: Splatoon_アタリメ司令_iWidget (Addon iWidgets)
+name: Splatoon_アタリメ司令_iWidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.SSazae.iWidget
+Version: 0.2
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.SSazae_iWidget.deb.deb
+Size: 809180
+MD5sum: f82410a172883ad2706914e3c5008f0e
+Description: Splatoon_スーパーサザエ_iWidget (Addon iWidgets).スーパーサザエ1号と2号を追加。微妙に動きの違う1号と2号をかわいがってあげてね！
+name: Splatoon_スーパーサザエ_iWidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.Spacial.Gauge.iwidget
+Version: 0.1
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.Spacial.Gauge.iwidget.deb
+Size: 2559148
+MD5sum: aee65d94e73b7b2aaabb84d7f7b2ab9b
+Description: Splatoon_スペシャルゲージ_iWidget (Addon iWidgets).
+name: Splatoon_スペシャルゲージ_iWidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.Wiiu-logo.iWidget
+Version: 0.1
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.Wiiu-logo_iWidget.deb
+Size: 15510
+MD5sum: 5ee894bb3ae8a8c6bba4fafab8a98812
+Description: Splatoon_Wiiu-logo-_iWidget (Addon iWidgets)
+name: Splatoon_Wiiu-logo-_iWidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.brand.iWidget
+Version: 0.1
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.brand_iWidget.deb
+Size: 471932
+MD5sum: c88ef348766ab2af920f037f2eb04703
+Description: Splatoon_ブランド_iWidget (Addon iWidgets)
+name: Splatoon_ブランド_iWidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.dawny.iWidget
+Version: 0.1.3
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.dawny_iWidget.deb
+Size: 969078
+MD5sum: f4292e7c662e2035ccfc9d1c4b87a33e
+Description: Splatoon_ダウニー_iWidget (Addon iWidgets).
+name: Splatoon_ダウニー_iWidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.dawny2.iWidget
+Version: 0.1
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.dawny2_iWidget.deb
+Size: 867612
+MD5sum: 42db7dc457519cd7fa6784c59ffea0d7
+Description: Splatoon_ダウニー2_iWidget (Addon iWidgets)
+name: Splatoon_ダウニー2_iWidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.dawny3.iWidget
+Version: 0.1
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.dawny3.iWidget.deb
+Size: 460288
+MD5sum: 3b6763835ac8d1753e8447c3a7b2c566
+Description: Splatoon_ダウニー3_iWidget (Addon iWidgets)
+name: Splatoon_ダウニー3_iWidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.dockAdjust9
+Version: 1.0.1-3
+Section: Tweaks
+Maintainer: k0un1x
+Depends: mobilesubstrate, firmware (>=9.0)
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.dockAdjust9_1.0.1-3_iphoneos-arm.deb
+Size: 26572
+Installed-Size: 224
+MD5sum: d8987fee1379935eedb3f0003213d5c1
+Description: This Tweak allows you to adjust the position or the like of height and icon of Dock. Works on iOS9
+name: DockAdjust 9
+author: k0un1x
+
+Package: com.k0un1x.ikaclock.mini
+Version: 0.1
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.ikaclock.mini.deb
+Size: 80396
+MD5sum: 22fa81aacfd424f1e6cab1488c589e81
+Description: Spaltoon_イカClockミニ_iWidget (Addon iWidgets).
+name: Splatoon_イカClock_mini_iwidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.k0un1x.kingpulsar.iwidget
+Version: 0.2
+Section: Widgets
+Maintainer: k0un1x <kr7577gm@gmail.com>
+Depends: com.eldwin.iwidgets
+Architecture: iphoneos-arm
+Filename: .///com.k0un1x.kingpulsar.iwidget.deb
+Size: 232974
+MD5sum: 12f4add58061d108c1cc8a9c4b4d34b0
+Description: KingPulsar_iWidget (Addon iWidgets).
+name: KingPulsar_iwidget
+author: k0un1x <kr7577gm@gmail.com>
+homepage: http://k0usblog.blogspot.jp/
+
+Package: com.kindadev.ccnowplaying
+Version: 0.8.3-6
+Section: Tweaks
+Maintainer: thebigboss.org <http://thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Architecture: iphoneos-arm
+Filename: .///com.kindadev.ccnowplaying_0.8.3-6_iphoneos-arm.deb
+Size: 86376
+Installed-Size: 396
+MD5sum: ee589dde101bcef6c7de73a9507b6a4a
+Description: Post #NowPlaying from Control Center
+name: CCNowPlaying
+author: kinda <kinda.dev@gmail.com>
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccnowplayingDp
+tag: purpose::extension
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccnowplayingDp
+dev: kindadev
+icon: file:///Library/PreferenceBundles/CCNowPlayingSettings.bundle/CCNowPlaying@2x.png
 
