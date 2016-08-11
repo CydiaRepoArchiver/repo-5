@@ -13,15 +13,15 @@ name: DockAdjust 8
 author: k0un1x
 
 Package: com.k0u.favrepo
-Version: 0.1.9
+Version: 0.2
 Priority: optional
 Section: Repositories
-Maintainer: k0u <kr7577gm@gmail.com>
+Maintainer: k0un1x <kr7577gm@gmail.com>
 Architecture: iphoneos-arm
-Filename: .///com.k0u.favrepo_0.1.9_iphoneos-arm.deb
-Size: 960
-MD5sum: e75d63b24605c45deef694320b2c3321
-Description: k0u's Favorite Repository
+Filename: .///com.k0u.favrepo_0.2_iphoneos-arm.deb
+Size: 976
+MD5sum: 1ca87266e8590915814ab5cc7f9bdd51
+Description: k0un1x's Favorite Repository
 name: com.k0u.favrepo
 
 Package: com.k0u.ikaclock
@@ -233,9 +233,9 @@ MD5sum: ee589dde101bcef6c7de73a9507b6a4a
 Description: Post #NowPlaying from Control Center
 name: CCNowPlaying
 author: kinda <kinda.dev@gmail.com>
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccnowplayingDp
-tag: purpose::extension
-depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccnowplayingDp
-dev: kindadev
 icon: file:///Library/PreferenceBundles/CCNowPlayingSettings.bundle/CCNowPlaying@2x.png
+depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccnowplayingDp
+tag: purpose::extension
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccnowplayingDp
+dev: kindadev
 
